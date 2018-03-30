@@ -32,7 +32,7 @@
         "#f9f9f9"
       ]
     },
-    "favicon": "@PROJECT_PATH@/assets/images/packaging-management-avatar-gmail-128x125.png",
+    "favicon": "",
     "noImageResize": "",
     "versionFirst": "4.3.4",
     "uniqCompNum": 58,
