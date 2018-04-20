@@ -1274,7 +1274,7 @@ body {
 }
 .cid-qMghXetk3A {
   padding-top: 60px;
-  padding-bottom: 75px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 @media (min-width: 992px) {
@@ -1369,6 +1369,33 @@ body {
   .cid-qNzQlYYzon .card-img span {
     font-size: 40px !important;
   }
+}
+.cid-qPK6BB55rl {
+  padding-top: 30px;
+  padding-bottom: 75px;
+  background-color: #f9f9f9;
+}
+@media (min-width: 992px) {
+  .cid-qPK6BB55rl .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qPK6BB55rl .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-qPK6BB55rl .mbr-text {
+    text-align: center;
+  }
+}
+.cid-qPK6BB55rl H1 {
+  color: #232323;
+}
+.cid-qPK6BB55rl .mbr-text,
+.cid-qPK6BB55rl .mbr-section-btn {
+  color: #232323;
 }
 .cid-qMgxT2MaDY {
   padding-top: 45px;
